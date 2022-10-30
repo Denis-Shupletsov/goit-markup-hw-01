@@ -1,4 +1,21 @@
 body {
-    background-color: aliceblue;
-    color: blue;
+    background-color: #FFFFFF;
+    color: #212121;
+}
+
+.list {
+    list-style: none;
+}
+/* header: цвет фона  #FFFFFF, лого #2196F3 #FFFFFF, info-nav цвет текста #757575 */
+/*section 1: заголовок, кнопка #FFFFFF, фон #2F303A */
+/*section 2:цвет текста основного #212121, текст пояснения #757575, фон #F5F5F5 */
+/*section 3:цвет текста #212121, фон #F5F4FA */
+/*footer: лого #2196F3 #FFFFFF, фон #2F303A   */
+/*info-nav цвет текста rgba(255, 255, 255, 0.6)  */
+.logo {
+    color: #000000;
+}
+/* site-nav */
+.site-nav .link {
+    color: #212121;
 }
