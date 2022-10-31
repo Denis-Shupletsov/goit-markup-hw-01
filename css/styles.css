@@ -47,13 +47,13 @@ body {
     color: #2196F3;
 }
                 /* info-nav */
-.hero {
+.hero { 
     background-color: #2F303A;
 }
 .hero-title {
     color: var(--main-text-color);
 }
-
+                /* button */
 .button {
     background-color: #2196F3;
     color: #FFFFFF;
