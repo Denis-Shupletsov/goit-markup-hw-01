@@ -15,7 +15,45 @@ body {
 .logo {
     color: #000000;
 }
+
+.logo:hover
+.logo:focus {
+    color: #2196F3;
+}
 /* site-nav */
 .site-nav .link {
     color: #212121;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: #2196F3;
+}
+
+.info-nav .link {
+    color: #757575;
+}
+.info-nav .link:hover,
+.info-nav .link:focus {
+    color: #2196F3;
+}
+/* info-nav */
+.hero {
+    background-color: #2F303A;
+}
+.hero-title,
+.button {
+    color: #FFFFFF;
+}
+
+.button {
+    background-color: #2196F3;
+}
+
+.section-title {
+    color: #212121;
+}
+
+.section-subtitle {
+    color: #757575;
 }
